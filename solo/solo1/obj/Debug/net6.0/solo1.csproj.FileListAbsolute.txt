@@ -1,0 +1,15 @@
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/solo/solo1/bin/Debug/net6.0/solo1
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/solo/solo1/bin/Debug/net6.0/solo1.deps.json
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/solo/solo1/bin/Debug/net6.0/solo1.runtimeconfig.json
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/solo/solo1/bin/Debug/net6.0/solo1.dll
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/solo/solo1/bin/Debug/net6.0/solo1.pdb
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/solo/solo1/obj/Debug/net6.0/solo1.csproj.AssemblyReference.cache
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/solo/solo1/obj/Debug/net6.0/solo1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/solo/solo1/obj/Debug/net6.0/solo1.AssemblyInfoInputs.cache
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/solo/solo1/obj/Debug/net6.0/solo1.AssemblyInfo.cs
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/solo/solo1/obj/Debug/net6.0/solo1.csproj.CoreCompileInputs.cache
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/solo/solo1/obj/Debug/net6.0/solo1.dll
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/solo/solo1/obj/Debug/net6.0/refint/solo1.dll
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/solo/solo1/obj/Debug/net6.0/solo1.pdb
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/solo/solo1/obj/Debug/net6.0/solo1.genruntimeconfig.cache
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repository/cse210/solo/solo1/obj/Debug/net6.0/ref/solo1.dll
