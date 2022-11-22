@@ -1,0 +1,15 @@
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/cse210/w02/object/obj/Debug/net6.0/object.csproj.AssemblyReference.cache
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/cse210/w02/object/obj/Debug/net6.0/object.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/cse210/w02/object/obj/Debug/net6.0/object.AssemblyInfoInputs.cache
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/cse210/w02/object/obj/Debug/net6.0/object.AssemblyInfo.cs
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/cse210/w02/object/obj/Debug/net6.0/object.csproj.CoreCompileInputs.cache
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/cse210/w02/object/bin/Debug/net6.0/object
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/cse210/w02/object/bin/Debug/net6.0/object.deps.json
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/cse210/w02/object/bin/Debug/net6.0/object.runtimeconfig.json
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/cse210/w02/object/bin/Debug/net6.0/object.dll
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/cse210/w02/object/bin/Debug/net6.0/object.pdb
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/cse210/w02/object/obj/Debug/net6.0/object.dll
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/cse210/w02/object/obj/Debug/net6.0/refint/object.dll
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/cse210/w02/object/obj/Debug/net6.0/object.pdb
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/cse210/w02/object/obj/Debug/net6.0/object.genruntimeconfig.cache
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/cse210/w02/object/obj/Debug/net6.0/ref/object.dll

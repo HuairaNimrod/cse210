@@ -1,0 +1,15 @@
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/cse210/w02/abstraction/obj/Debug/net6.0/abstraction.csproj.AssemblyReference.cache
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/cse210/w02/abstraction/obj/Debug/net6.0/abstraction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/cse210/w02/abstraction/obj/Debug/net6.0/abstraction.AssemblyInfoInputs.cache
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/cse210/w02/abstraction/obj/Debug/net6.0/abstraction.AssemblyInfo.cs
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/cse210/w02/abstraction/obj/Debug/net6.0/abstraction.csproj.CoreCompileInputs.cache
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/cse210/w02/abstraction/bin/Debug/net6.0/abstraction
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/cse210/w02/abstraction/bin/Debug/net6.0/abstraction.deps.json
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/cse210/w02/abstraction/bin/Debug/net6.0/abstraction.runtimeconfig.json
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/cse210/w02/abstraction/bin/Debug/net6.0/abstraction.dll
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/cse210/w02/abstraction/bin/Debug/net6.0/abstraction.pdb
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/cse210/w02/abstraction/obj/Debug/net6.0/abstraction.dll
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/cse210/w02/abstraction/obj/Debug/net6.0/refint/abstraction.dll
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/cse210/w02/abstraction/obj/Debug/net6.0/abstraction.pdb
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/cse210/w02/abstraction/obj/Debug/net6.0/abstraction.genruntimeconfig.cache
+/Users/nimrodhuairareyna/Documents/BYU-Idaho/On-Campus/Fall-2022/M-T-W-TH/CSE210/repositories/cse210/w02/abstraction/obj/Debug/net6.0/ref/abstraction.dll
